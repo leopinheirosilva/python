@@ -29,7 +29,7 @@ Aplicação leve em Streamlit que centraliza fluxos comuns de análise de dados:
 - Clonar o repositório:
 
 ```code
-    git clone https://github.com/leopinheirosilva/python.git
+git clone https://github.com/leopinheirosilva/python.git
 cd python
 ```
 

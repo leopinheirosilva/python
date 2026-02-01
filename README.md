@@ -24,8 +24,6 @@ Aplicação leve em Streamlit que centraliza fluxos comuns de análise de dados:
 
 ## Instalação
 
----
-
 ### Passo a passo para clonar e rodar em ambiente local
 
 - Clonar o repositório:

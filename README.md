@@ -53,6 +53,12 @@ source .venv/bin/activate
 
 `streamlit run app.py`
 
+## Deploy
+
+- Streamlit
+
+clique [aqui](https://dashboard-dados-py.streamlit.app/) para acessar o site!
+
 ## Contato
 
 Email: <leonardopinheirosilva16@gmail.com>
